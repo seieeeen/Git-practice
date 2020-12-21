@@ -2,3 +2,5 @@ Name: YukaIronhacker
 Age: 25
 Favorite Color: Violet
 Manga: HXH,JOJO
+Film: Hayao miyazaki
+
